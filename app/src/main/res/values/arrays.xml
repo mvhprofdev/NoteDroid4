@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_order">
+        <item>Ascending on name</item>
+        <item>Descending on name</item>
+        <item>Ascending on date</item>
+        <item>Descending on date</item>
+    </string-array>
+</resources>

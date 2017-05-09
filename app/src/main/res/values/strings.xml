@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notedroid 4</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="mi_search">Search</string>
+    <string name="et_content_str">inhoud</string>
+    <string name="et_title_str">titel</string>
+    <string name="mi_item_save">Save</string>
+    <string name="mi_new_item_str">new</string>
+    <string name="mi_delete_str">delete</string>
+    <string name="mi_pref_str">preferences</string>
+    <string-array name="example">example</string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
